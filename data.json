@@ -1,49 +1,191 @@
 {
- "settings":{"whatsapp":"256778978200","tmdbKey":""},
- "social":[
-  {"name":"Instagram","url":""},
-  {"name":"TikTok","url":"https://www.tiktok.com/@vodtech45"},
-  {"name":"Facebook","url":"https://www.facebook.com/share/19ujyh4sSK/"},
-  {"name":"X","url":""},
-  {"name":"YouTube","url":""}
+ "settings": {
+  "whatsapp": "256778978200",
+  "tmdbKey": ""
+ },
+ "social": [
+  {
+   "name": "Instagram",
+   "url": ""
+  },
+  {
+   "name": "TikTok",
+   "url": "https://www.tiktok.com/@vodtech45"
+  },
+  {
+   "name": "Facebook",
+   "url": "https://www.facebook.com/share/19ujyh4sSK/"
+  },
+  {
+   "name": "X",
+   "url": ""
+  },
+  {
+   "name": "YouTube",
+   "url": ""
+  }
  ],
- "products":[
-  {"name":"Electrical tape","desc":"Insulation tape for safe wiring","img":""},
-  {"name":"Tower clips","desc":"Secure cables to towers and poles","img":""},
-  {"name":"RJ45 connectors","desc":"Network plugs for Cat5e and Cat6","img":""},
-  {"name":"Cat6 outdoor cable","desc":"Pure copper, weather-resistant","img":""},
-  {"name":"Cable zip ties","desc":"Tidy and secure cable runs","img":""},
-  {"name":"VGA to VGA cables","desc":"Connect monitors and projectors","img":""},
-  {"name":"Braided HDMI cables","desc":"Durable, tangle-resistant","img":""},
-  {"name":"HDMI cables","desc":"TVs, monitors, consoles and laptops","img":""},
-  {"name":"DVI to HDMI cables","desc":"Link older displays to modern screens","img":""},
-  {"name":"USB Type-C cables","desc":"Charging and data","img":""},
-  {"name":"Printer cables","desc":"USB-B to USB-A","img":""},
-  {"name":"VGA to USB cables","desc":"Display and device links","img":""},
-  {"name":"UK power cords","desc":"C13 computer power leads","img":""}
+ "products": [
+  {
+   "name": "Electrical tape",
+   "desc": "Insulation tape for safe wiring",
+   "img": ""
+  },
+  {
+   "name": "Tower clips",
+   "desc": "Secure cables to towers and poles",
+   "img": ""
+  },
+  {
+   "name": "RJ45 connectors",
+   "desc": "Network plugs for Cat5e and Cat6",
+   "img": ""
+  },
+  {
+   "name": "Cat6 outdoor cable",
+   "desc": "Pure copper, weather-resistant",
+   "img": ""
+  },
+  {
+   "name": "Cable zip ties",
+   "desc": "Tidy and secure cable runs",
+   "img": ""
+  },
+  {
+   "name": "VGA to VGA cables",
+   "desc": "Connect monitors and projectors",
+   "img": ""
+  },
+  {
+   "name": "Braided HDMI cables",
+   "desc": "Durable, tangle-resistant",
+   "img": ""
+  },
+  {
+   "name": "HDMI cables",
+   "desc": "TVs, monitors, consoles and laptops",
+   "img": ""
+  },
+  {
+   "name": "DVI to HDMI cables",
+   "desc": "Link older displays to modern screens",
+   "img": ""
+  },
+  {
+   "name": "USB Type-C cables",
+   "desc": "Charging and data",
+   "img": ""
+  },
+  {
+   "name": "Printer cables",
+   "desc": "USB-B to USB-A",
+   "img": ""
+  },
+  {
+   "name": "VGA to USB cables",
+   "desc": "Display and device links",
+   "img": ""
+  },
+  {
+   "name": "UK power cords",
+   "desc": "C13 computer power leads",
+   "img": ""
+  }
  ],
- "games":[
-  {"name":"God of War","cat":"Action","img":""},
-  {"name":"Spider-Man","cat":"Action","img":""},
-  {"name":"The Last of Us Part II","cat":"Action","img":""},
-  {"name":"Ghost of Tsushima","cat":"Action","img":""},
-  {"name":"FIFA 23","cat":"Sports","img":""},
-  {"name":"EA Sports FC 24","cat":"Sports","img":""},
-  {"name":"NBA 2K24","cat":"Sports","img":""},
-  {"name":"Gran Turismo Sport","cat":"Racing & Fighting","img":""},
-  {"name":"Mortal Kombat 11","cat":"Racing & Fighting","img":""},
-  {"name":"Tekken 7","cat":"Racing & Fighting","img":""}
+ "games": [
+  {
+   "name": "God of War",
+   "cat": "Action",
+   "img": ""
+  },
+  {
+   "name": "Spider-Man",
+   "cat": "Action",
+   "img": ""
+  },
+  {
+   "name": "The Last of Us Part II",
+   "cat": "Action",
+   "img": ""
+  },
+  {
+   "name": "Ghost of Tsushima",
+   "cat": "Action",
+   "img": ""
+  },
+  {
+   "name": "FIFA 23",
+   "cat": "Sports",
+   "img": ""
+  },
+  {
+   "name": "EA Sports FC 24",
+   "cat": "Sports",
+   "img": ""
+  },
+  {
+   "name": "NBA 2K24",
+   "cat": "Sports",
+   "img": ""
+  },
+  {
+   "name": "Gran Turismo Sport",
+   "cat": "Racing & Fighting",
+   "img": ""
+  },
+  {
+   "name": "Mortal Kombat 11",
+   "cat": "Racing & Fighting",
+   "img": ""
+  },
+  {
+   "name": "Tekken 7",
+   "cat": "Racing & Fighting",
+   "img": ""
+  }
  ],
- "services":[
-  {"icon":"🎮","title":"PS4 game sales","desc":"Game discs and digital codes, with reservations by message."},
-  {"icon":"🎬","title":"Movie & series requests","desc":"Ask for a title and we will add it to the next batch."},
-  {"icon":"💻","title":"Business tech setup","desc":"Computers, POS, networks and CCTV installed and tested."},
-  {"icon":"🛠","title":"Repairs & support","desc":"Fast diagnosis and repair for consoles and computers."},
-  {"icon":"🌐","title":"Websites & branding","desc":"Online presence for small businesses."},
-  {"icon":"📦","title":"Delivery","desc":"Delivery to your area, arranged when you book."}
+ "services": [
+  {
+   "icon": "🎮",
+   "title": "PS4 game sales",
+   "desc": "Game discs and digital codes, with reservations by message."
+  },
+  {
+   "icon": "🎬",
+   "title": "Movie & series requests",
+   "desc": "Ask for a title and we will add it to the next batch."
+  },
+  {
+   "icon": "💻",
+   "title": "Business tech setup",
+   "desc": "Computers, POS, networks and CCTV installed and tested."
+  },
+  {
+   "icon": "🛠",
+   "title": "Repairs & support",
+   "desc": "Fast diagnosis and repair for consoles and computers."
+  },
+  {
+   "icon": "🌐",
+   "title": "Websites & branding",
+   "desc": "Online presence for small businesses."
+  },
+  {
+   "icon": "📦",
+   "title": "Delivery",
+   "desc": "Delivery to your area, arranged when you book."
+  }
  ],
- "reviews":[
-  {"quote":"Great games, honest prices. My PS4 reservation was ready the same day.","name":"Customer name","role":"PS4 gamer"},
-  {"quote":"They set up our shop's POS and network in one afternoon.","name":"Customer name","role":"Shop owner"}
+ "reviews": [
+  {
+   "quote": "Great games, honest prices. My PS4 reservation was ready the same day.",
+   "name": "Customer name",
+   "role": "PS4 gamer"
+  },
+  {
+   "quote": "They set up our shop's POS and network in one afternoon.",
+   "name": "Customer name",
+   "role": "Shop owner"
+  }
  ]
 }
