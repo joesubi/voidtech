@@ -27,34 +27,24 @@
  ],
  "products": [
   {
-   "name": "Electrical tape",
-   "desc": "Insulation tape for safe wiring",
-   "img": ""
-  },
-  {
    "name": "Tower clips",
    "desc": "Secure cables to towers and poles",
-   "img": ""
+   "img": "images/tower-clips-mvmepc59.jpg"
   },
   {
    "name": "RJ45 connectors",
    "desc": "Network plugs for Cat5e and Cat6",
-   "img": ""
+   "img": "images/rj45-connectors-mvmedzi6.jpg"
   },
   {
    "name": "Cat6 outdoor cable",
    "desc": "Pure copper, weather-resistant",
-   "img": ""
-  },
-  {
-   "name": "Cable zip ties",
-   "desc": "Tidy and secure cable runs",
-   "img": ""
+   "img": "images/cat6-outdoor-cable-mvmeoveo.jpg"
   },
   {
    "name": "VGA to VGA cables",
    "desc": "Connect monitors and projectors",
-   "img": ""
+   "img": "images/vga-to-vga-cables-mvmej4he.jpg"
   },
   {
    "name": "Braided HDMI cables",
@@ -64,12 +54,12 @@
   {
    "name": "HDMI cables",
    "desc": "TVs, monitors, consoles and laptops",
-   "img": ""
+   "img": "images/hdmi-cables-mvmeeihr.jpg"
   },
   {
    "name": "DVI to HDMI cables",
    "desc": "Link older displays to modern screens",
-   "img": ""
+   "img": "images/dvi-to-hdmi-cables-mvmeg4pe.jpg"
   },
   {
    "name": "USB Type-C cables",
@@ -79,17 +69,32 @@
   {
    "name": "Printer cables",
    "desc": "USB-B to USB-A",
-   "img": ""
+   "img": "images/printer-cables-mvmegonu.jpg"
   },
   {
    "name": "VGA to USB cables",
    "desc": "Display and device links",
-   "img": ""
+   "img": "images/vga-to-usb-cables-mvmeqvto.jpg"
   },
   {
-   "name": "UK power cords",
-   "desc": "C13 computer power leads",
-   "img": ""
+   "name": "zip ties",
+   "desc": "cable management",
+   "img": "images/zip-ties-mvmejsa0.jpg"
+  },
+  {
+   "name": "IEC C7 Power Cord",
+   "desc": "A 2-pin unpolarized AC power cable used for TVs, radios, streaming boxes, and older gaming consoles (like PS3/PS4).",
+   "img": "images/iec-c7-power-cord-mvmeso1d.jpg"
+  },
+  {
+   "name": "IEC C5 Power Cord",
+   "desc": " 3-pin grounded power cable with a UK-style plug, most commonly used for laptop charger power bricks and some desktop monitors.",
+   "img": "images/iec-c5-power-cord-mvmeu6js.jpg"
+  },
+  {
+   "name": "3-Pin AC Power Cord",
+   "desc": "AC power cord shown in the first image, commonly bundled with home electronics.",
+   "img": "images/3-pin-ac-power-cord-mvmexu7u.jpg"
   }
  ],
  "games": [
