@@ -96,52 +96,47 @@
   {
    "name": "God of War",
    "cat": "Action",
-   "img": ""
+   "img": "images/god-of-war-mvmci5lf.jpg"
   },
   {
-   "name": "Spider-Man",
+   "name": "FC26",
    "cat": "Action",
-   "img": ""
+   "img": "images/fc26-mvmcifv2.jpg"
   },
   {
-   "name": "The Last of Us Part II",
+   "name": "Mortal kombat 11",
    "cat": "Action",
-   "img": ""
+   "img": "images/mortal-kombat-11-mvmciroa.jpg"
   },
   {
-   "name": "Ghost of Tsushima",
+   "name": "Grand theft auto 5",
    "cat": "Action",
-   "img": ""
+   "img": "images/grand-theft-auto-5-mvmciz8j.jpg"
   },
   {
-   "name": "FIFA 23",
+   "name": "Call Of Duty blckopps3",
    "cat": "Sports",
-   "img": ""
+   "img": "images/call-of-duty-blckopps3-mvmcj81c.jpg"
   },
   {
-   "name": "EA Sports FC 24",
+   "name": "Injustice 2 leg edt",
    "cat": "Sports",
-   "img": ""
+   "img": "images/injustice-2-leg-edt-mvmcjhec.jpg"
   },
   {
-   "name": "NBA 2K24",
+   "name": "UFC 3",
    "cat": "Sports",
-   "img": ""
+   "img": "images/ufc-3-mvmclzho.jpg"
   },
   {
    "name": "Gran Turismo Sport",
    "cat": "Racing & Fighting",
-   "img": ""
+   "img": "images/gran-turismo-sport-mvmcmh4k.jpg"
   },
   {
-   "name": "Mortal Kombat 11",
+   "name": "Far Cry 6",
    "cat": "Racing & Fighting",
-   "img": ""
-  },
-  {
-   "name": "Tekken 7",
-   "cat": "Racing & Fighting",
-   "img": ""
+   "img": "images/far-cry-6-mvmcjqmr.jpg"
   }
  ],
  "services": [
